@@ -106,8 +106,8 @@ To convert raw customer data into actionable insights that help businesses impro
 
 ## 📬 Contact
 
-sajid.siddique2006@gmail.com  
-https://linkedin.com/in/sajid-hussain2006  
+📧 **Email:** sajid.siddique2006@gmail.com  
+💼 **LinkedIn:** https://linkedin.com/in/sajid-hussain2006  
 
 ---
 
