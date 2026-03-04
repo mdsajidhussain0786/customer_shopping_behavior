@@ -75,3 +75,40 @@ The goal is to transform raw transactional data into meaningful KPIs and interac
 ## 🚀 How to Run
 
 Install required libraries:
+pip install pandas numpy matplotlib seaborn plotly mysql-connector-python
+
+
+Run Jupyter Notebook:
+
+
+jupyter notebook
+
+
+Import SQL file into MySQL:
+
+
+SOURCE your_sql_file_name.sql;
+
+
+---
+
+## 💼 Resume Project Description
+
+Developed an end-to-end Customer Behavior Analytics Dashboard using Python, MySQL, and Power BI. Performed data cleaning, EDA, and SQL-based KPI extraction to analyze customer purchasing trends and built interactive dashboards for business insights.
+
+---
+
+## 🎯 Project Objective
+
+To convert raw customer data into actionable insights that help businesses improve targeting strategy, customer engagement, and revenue growth.
+
+---
+
+## 📬 Contact
+
+your-email@example.com  
+https://linkedin.com/in/your-profile  
+
+---
+
+⭐ If you found this project useful, consider giving it a star!
