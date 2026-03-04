@@ -106,8 +106,8 @@ To convert raw customer data into actionable insights that help businesses impro
 
 ## 📬 Contact
 
-your-email@example.com  
-https://linkedin.com/in/your-profile  
+sajid.siddique2006@gmail.com  
+https://linkedin.com/in/sajid-hussain2006  
 
 ---
 
