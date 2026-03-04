@@ -14,7 +14,7 @@ This project demonstrates practical skills in **data cleaning, exploratory data 
 
 ## 📊 Dashboard Preview
 
-![Customer Behavior Dashboard](./dashboard.png)
+![Dashboard Demo](./dashboard.gif)
 
 > 📌 Upload your dashboard screenshot in the main project folder and rename it to `dashboard.png`
 
